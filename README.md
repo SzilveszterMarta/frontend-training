@@ -1,4 +1,8 @@
 # frontend-training
 Frontend basics
 
-Test text
+# Git commands
+git status
+git add .
+git commit -m "commit message"
+git push origin branch-name
